@@ -40,5 +40,5 @@ https://heart-disease-101803156.herokuapp.com/
 
 ## Link to dataset
 ***
-https://www.kaggle.com/uciml/indian-liver-patient-records
+https://www.kaggle.com/ronitf/heart-disease-uci
 
