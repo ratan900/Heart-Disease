@@ -1,3 +1,3 @@
 # Heart-Disease
 
-![](ScreenShots/input1.png)
+![Uploading Input1.png…]()
