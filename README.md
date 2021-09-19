@@ -20,6 +20,10 @@ This webapp is used to predict the person is suffering from any heart disease an
 
 <img width="1440" alt="Output2" src="https://user-images.githubusercontent.com/52387727/133895163-de8f69b0-a218-4edb-a220-2650d64688f3.png">
 
+## Flow Chart of Methodology
+
+
+
 ## TechStack
 ***
 A list of technologies used within the project:
