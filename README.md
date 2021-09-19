@@ -2,7 +2,10 @@
 
 ## Overview
 ***
-This webapp is used to predict the person is suffering from any heart disease and recommends if the person should visit the doctor or not.
+This webapp is used to predict weather the person is suffering from any heart disease and recommends if the person should visit the doctor or not. 
+It uses Flask, Machine Learning to do so. First the dataset is imported, then preprossing is done, then visualization is done through matplotlib,
+then the data is trained, then the accuracy is checked and finally the prediction has been made. Frontend has been made by using HTML, CSS, javascript and Bootstrap.
+Backend is done by using flask. And by flask only the integration has been done between frontend and backend and machine learning pickel files.
 
 ### Input Image 1
 
@@ -22,6 +25,7 @@ This webapp is used to predict the person is suffering from any heart disease an
 
 ## Flow Chart of Methodology
 
+<img width="403" alt="Methodology" src="https://user-images.githubusercontent.com/52387727/133934230-2bd7642a-320f-4d1d-bb1e-3e922c331ea4.png">
 
 
 ## TechStack
